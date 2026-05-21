@@ -6,3 +6,5 @@ ui_*
 qrc_*
 CMakeCache.txt
 CMakeFiles/
+docs/html/
+docs/latex/
