@@ -11,6 +11,7 @@
 #include <QPushButton>
 #include <QTableWidget>
 #include <QLabel>
+#include <QComboBox>
 #include "Database.h"
 #include "User.h"
 #include "Statistics.h"
